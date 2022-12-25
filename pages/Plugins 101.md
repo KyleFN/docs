@@ -1,3 +1,0 @@
-- The draft plugins documentation is at https://logseq.github.io/plugins/, any feedback or suggestions are appreciated!
-- [[Plugins 01]]
-- [[Plugins 02 - Build a mind map plugin]]
